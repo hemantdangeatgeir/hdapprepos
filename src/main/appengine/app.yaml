@@ -1,2 +1,4 @@
 runtime: java8
 instance_class: F1
+handlers:
+- url: /.*
