@@ -3,5 +3,3 @@ instance_class: F1
 handlers:
 - url: /galaxy
   static_dir: galaxy
-  
-- url: /*
